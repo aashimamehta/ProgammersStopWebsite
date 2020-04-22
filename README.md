@@ -1,0 +1,2 @@
+# ProgammersStopWebsite
+This project is about creating a website where one can find all resources essential for their student life. My goal is to create a website that can help future students find all resources at one place. The website is especially going to be helpful to future programmers as I will add multiple links to other websites from where they can easily learn various programming languages.
